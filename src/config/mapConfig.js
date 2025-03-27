@@ -1,6 +1,6 @@
 // Mapbox configuration
 export const MAPBOX_CONFIG = {
-  accessToken: process.env.REACT_APP_MAPBOX_ACCESS_TOKEN || "pk.eyJ1Ijoic3llZHphbWFuMDA5NiIsImEiOiJjbThxZGltbGYwaDA4MmtzYW55eHJvazc1In0.x4yA3Enz1S-DtCrrGrPpaQ",
+  accessToken: process.env.REACT_APP_MAPBOX_ACCESS_TOKEN || 'pk.eyJ1Ijoic3llZHphbWFuMDA5NiIsImEiOiJjbThxZGltbGYwaDA4MmtzYW55eHJvazc1In0.x4yA3Enz1S-DtCrrGrPpaQ',
   defaultCenter: {
     lat: 30.3753, // Pakistan center
     lng: 69.3451, // Pakistan center
